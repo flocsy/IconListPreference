@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="android_versions">
+                <item>ט"ו</item>
+                <item>י"ו</item>
+                <item>כ - כ"א</item>
+                <item>כ"ב</item>
+                <item>כ"ג</item>
+                <item>ל</item>
+                <item>מ</item>
+    </string-array>
+    <string-array name="android_version_values">
+                <item>15</item>
+                <item>16</item>
+                <item>20_21</item>
+                <item>22</item>
+                <item>23</item>
+                <item>30</item>
+                <item>40</item>
+     </string-array>
+     <string-array name="android_version_icons">
+                <item>@drawable/cupcake</item>
+                <item>@drawable/donut</item>
+                <item>@drawable/eclair</item>
+                <item>@drawable/froyo</item>
+                <item>@drawable/gingerbread</item>
+                <item>@drawable/honeycomb</item>
+                <item>@drawable/icecreamsandwich</item>
+     </string-array> 
+</resources>
